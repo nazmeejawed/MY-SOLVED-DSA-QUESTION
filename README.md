@@ -1,18 +1,12 @@
-# MY-SOLVED-DSA-QUESTION
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🧠 MY-SOLVED-DSA-QUESTION
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0013-roman-to-integer) |
-## Math
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0013-roman-to-integer) |
-## String
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0013-roman-to-integer) |
-<!---LeetCode Topics End-->
+LeetCode problems solved in **Dart** 🎯
+
+## Problems
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy |
+
+---
+*Solved: 1 | Easy: 1 | Medium: 0 | Hard: 0*
