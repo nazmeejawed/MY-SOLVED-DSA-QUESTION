@@ -10,3 +10,11 @@ LeetCode problems solved in **Dart** 🎯
 
 ---
 *Solved: 1 | Easy: 1 | Medium: 0 | Hard: 0*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
