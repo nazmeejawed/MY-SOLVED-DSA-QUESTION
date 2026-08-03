@@ -22,4 +22,12 @@ LeetCode problems solved in **Dart** 🎯
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
