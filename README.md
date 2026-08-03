@@ -21,10 +21,12 @@ LeetCode problems solved in **Dart** 🎯
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0344-reverse-string) |
 ## String
 |  |
