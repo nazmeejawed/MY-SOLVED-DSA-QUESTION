@@ -16,6 +16,7 @@ LeetCode problems solved in **Python** 🎯
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0704-binary-search) |
@@ -57,5 +58,6 @@ LeetCode problems solved in **Python** 🎯
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
