@@ -10,6 +10,7 @@ LeetCode problems solved in **Python** 🎯
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
@@ -17,6 +18,7 @@ LeetCode problems solved in **Python** 🎯
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0704-binary-search) |
