@@ -20,6 +20,7 @@ LeetCode problems solved in **Python** 🎯
 | [0035-search-insert-position](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -52,6 +53,7 @@ LeetCode problems solved in **Python** 🎯
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
