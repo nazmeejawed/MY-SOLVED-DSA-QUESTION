@@ -20,6 +20,7 @@ LeetCode problems solved in **Python** 🎯
 | [0035-search-insert-position](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0704-binary-search) |
@@ -41,6 +42,7 @@ LeetCode problems solved in **Python** 🎯
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
@@ -64,4 +66,8 @@ LeetCode problems solved in **Python** 🎯
 | ------- |
 | [0035-search-insert-position](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0704-binary-search) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
