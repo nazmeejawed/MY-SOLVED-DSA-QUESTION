@@ -24,6 +24,7 @@ LeetCode problems solved in **Python** 🎯
 | [0414-third-maximum-number](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1480-running-sum-of-1d-array) |
@@ -45,6 +46,7 @@ LeetCode problems solved in **Python** 🎯
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1991-find-the-middle-index-in-array) |
