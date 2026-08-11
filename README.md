@@ -33,6 +33,7 @@ LeetCode problems solved in **Python** 🎯
 | [1732-find-the-highest-altitude](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1991-find-the-middle-index-in-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,11 +62,13 @@ LeetCode problems solved in **Python** 🎯
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting Sort
 |  |
 | ------- |
