@@ -33,6 +33,7 @@ LeetCode problems solved in **Python** 🎯
 | [1732-find-the-highest-altitude](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/1991-find-the-middle-index-in-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
@@ -46,6 +47,7 @@ LeetCode problems solved in **Python** 🎯
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/0344-reverse-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -88,4 +90,12 @@ LeetCode problems solved in **Python** 🎯
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nazmeejawed/MY-SOLVED-DSA-QUESTION/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
